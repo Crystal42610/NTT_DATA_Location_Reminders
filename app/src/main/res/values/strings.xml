@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Location Reminders</string>
+    <string name="action_show_all">Show All</string>
+    <string name="action_show_open">Show Open</string>
+    <string name="memo_title">Title</string>
+    <string name="new_memo">New Memo</string>
+    <string name="memo_text">Text</string>
+    <string name="action_save">Save</string>
+    <string name="memo_title_empty_error">Please provide a title for this memo</string>
+    <string name="memo_text_empty_error">Please provide a memo description</string>
+    <string name="map_prompt">Tap the map to choose where this reminder should trigger (within 200 metres).</string>
+    <string name="map_attribution">Map data © OpenStreetMap contributors</string>
+    <string name="location_required">Choose a point on the map before saving.</string>
+    <string name="location_selected">Reminder location: %.5f, %.5f</string>
+    <string name="location_unavailable">No location was saved for this memo.</string>
+    <string name="monitoring_error">Reminder saved, but monitoring could not start. Check your location settings and try again.</string>
+    <string name="save_failed">Could not save this memo. Please try again.</string>
+    <string name="enable_background_reminders">Memo saved. Enable location and notification access on the home screen to activate reminders.</string>
+    <string name="permission_fine_needed">Precise location is needed to trigger reminders within 200 metres.</string>
+    <string name="permission_background_needed">Allow location access all the time so reminders work when the app is closed.</string>
+    <string name="permission_notifications_needed">Allow notifications to receive your reminders.</string>
+    <string name="permissions_ready">Location reminders are enabled.</string>
+    <string name="enable_permissions">Enable</string>
+    <string name="background_permission_title">Enable background reminders</string>
+    <string name="background_permission_rationale">To alert you when you reach a saved location, choose Permissions > Location > Allow all the time in Android settings. Return to the app afterward.</string>
+    <string name="open_settings">Open settings</string>
+    <string name="channel_name">Location reminders</string>
+    <string name="channel_description">Alerts when you reach a saved memo location</string>
+</resources>
