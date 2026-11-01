@@ -20,7 +20,9 @@
 
     </com.google.android.material.appbar.AppBarLayout>
 
-    <include android:id="@+id/content_home" layout="@layout/content_home"
+    <include android:id="@+id/content_home"
+        android:layout_width="match_parent" android:layout_height="match_parent"
+        layout="@layout/content_home"
         app:layout_behavior="@string/appbar_scrolling_view_behavior" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
