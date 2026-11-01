@@ -1,3 +1,8 @@
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/c5f6609f-3055-424e-ba43-cd43a7e4eca4" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/2c1a94c3-7baa-4011-835d-c343707a0488" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/67562ff2-03e1-4763-966f-99f631cfebd7" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/32a34d3c-9bb9-4afe-8bc4-176c07099736" />
+
 # Location-based Memo Reminders — NTT DATA coding challenge
 
 A Kotlin implementation built on the supplied Android starter project. Users can create a memo, tap a point on an OpenStreetMap map, and receive a one-time notification upon entering a **200-metre** geofence, even when the Activity is closed. Existing memo list/detail screens and Room persistence have been retained.
